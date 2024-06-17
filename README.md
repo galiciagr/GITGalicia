@@ -1,0 +1,2 @@
+# GITGalicia
+proyecto TECH
